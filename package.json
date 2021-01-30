@@ -34,15 +34,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/deniambrosee/dahyunbot9"
+    "url": "git+https://github.com/deniambroseBOT/dahyunbot1"
   },
   "keywords": [
     "K"
   ],
-  "author": "deniambrose",
+  "author": "deniambroseBOT",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/deniambrosee/dahyunbot9/issues"
+    "url": "https://github.com/deniambroseBOT/dahyunbot1/issues"
   },
-  "homepage": "https://github.com/deniambrosee/dahyunbot9#readme"
+  "homepage": "https://github.com/deniambroseBOT/dahyunbot1#readme"
 }
